@@ -30,7 +30,7 @@ public class Cat {
         }
     }
 
-    // Метод: кошка мяукает
+    // Метод: кошка мяукае
     public void meow() {
         System.out.println(name + " говорит: Мяу-мяу!");
     }
